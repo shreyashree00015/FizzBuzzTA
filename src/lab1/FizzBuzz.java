@@ -15,19 +15,19 @@ class FizzBuzz {
 
             // Print our appropriate result.
             if (divisibleBy3 && divisibleBy5) {
-
+                //final results
                 System.out.println("Fizz Buzz");
 
             } else if (divisibleBy3) {
-
+                //final results
                 System.out.println("Fizz");
 
             } else if (divisibleBy5) {
-
+                //final results
                 System.out.println("Buzz");
 
             } else {
-
+                //final results
                 System.out.println(i);
 
             }
